@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alaska_itinerary/static/css/main.9c0c2a5f.css",
+    "main.js": "/Alaska_itinerary/static/js/main.887582a6.js",
+    "static/js/453.e8494c6d.chunk.js": "/Alaska_itinerary/static/js/453.e8494c6d.chunk.js",
+    "index.html": "/Alaska_itinerary/index.html",
+    "main.9c0c2a5f.css.map": "/Alaska_itinerary/static/css/main.9c0c2a5f.css.map",
+    "main.887582a6.js.map": "/Alaska_itinerary/static/js/main.887582a6.js.map",
+    "453.e8494c6d.chunk.js.map": "/Alaska_itinerary/static/js/453.e8494c6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c0c2a5f.css",
+    "static/js/main.887582a6.js"
+  ]
+}
